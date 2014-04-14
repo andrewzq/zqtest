@@ -4,7 +4,7 @@ com.sony.padweibo
 com.sina.hongweibo
 com.sina.weibo
 com.sina.mfweibo
-com.sina.meyou
+com.sina.memeyou
 
 
 com.sina.weiboapp  
@@ -13,3 +13,5 @@ com.sina.weibo.ereb
 com.sina.inqweibo
 com.sina.cntvweibo
 com.sina.weiboadapter
+
+com.sina.weibo
