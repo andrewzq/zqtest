@@ -1,0 +1,15 @@
+com.sina.hotweibo
+com.sina.weibotab
+com.sony.padweibo
+com.sina.hongweibo
+com.sina.weibo
+com.sina.mfweibo
+com.sina.meyou
+
+
+com.sina.weiboapp  
+com.sina.weibo.lephone 
+com.sina.weibo.ereb
+com.sina.inqweibo
+com.sina.cntvweibo
+com.sina.weiboadapter
